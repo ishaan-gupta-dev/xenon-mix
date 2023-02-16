@@ -16,6 +16,11 @@
 6. Switch songs on the go using left and right arrow buttons.
 7. Currently 6 songs for demo. More songs can be added later with few changes.
 
+# Hosted on
+
+https://xenon-mix.onrender.com/
+
+
 # How to use?
 1. In the group of circular action buttons section, the upper-most button is the menu button. left and right buttons are navigation buttons(to navigate in All songs only). The bottom-most button is the Play/Pause button to stop or play the current song.
 2. To navigate in the menu, just swipe clockwise if you want to select an item which is available below the currently selected item. And similarly, swipe anti-clockwise if you want to select an item which is available above the currently selected item.
